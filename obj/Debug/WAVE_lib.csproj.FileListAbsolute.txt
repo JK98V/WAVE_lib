@@ -1,0 +1,12 @@
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.exe.config
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.exe
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.pdb
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.csprojResolveAssemblyReference.cache
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.exe
+c:\users\jkulvich\Desktop\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.pdb
+Z:\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.exe.config
+Z:\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.exe
+Z:\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.pdb
+Z:\Projects\WAVE_lib\WAVE_lib\obj\Debug\WAVE_lib.csprojResolveAssemblyReference.cache
+Z:\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.exe
+Z:\Projects\WAVE_lib\WAVE_lib\bin\Debug\WAVE_lib.pdb
